@@ -28,6 +28,7 @@ for i in range(depth-3):
         if random.random() > 0.1:
             g.append(random.choice(choices))
             count += 1
+            break
     circuit.append(g)
 
 #qgate.dump(circuit)

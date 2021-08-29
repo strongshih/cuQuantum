@@ -61,7 +61,7 @@ int main (int narg, char *varg[]) {
     for (int i = 0; i < n_qregs-1; i++)
         controlledNot(qubits, i, i+1);
 
-    int count = 0;
+    int count = n_qregs*3-1;
     for (int i = 0; i < depth-3; i++) {
         for (int j = 0; j < n_qregs; j++) {
 		    double x = (double) rand() / (RAND_MAX + 1.0);
