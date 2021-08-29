@@ -7,3 +7,6 @@
 [submodule "quest_test/QuEST"]
 	path = quest_test/QuEST
 	url = https://github.com/QuEST-Kit/QuEST.git
+[submodule "quimb_test/quimb"]
+	path = quimb_test/quimb
+	url = https://github.com/jcmgray/quimb.git
