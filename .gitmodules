@@ -1,3 +1,6 @@
 [submodule "qgate_test/qgate"]
 	path = qgate_test/qgate
 	url = https://github.com/shinmorino/qgate.git
+[submodule "qiskit_aer_test/qiskit-aer"]
+	path = qiskit_aer_test/qiskit-aer
+	url = https://github.com/Qiskit/qiskit-aer.git
