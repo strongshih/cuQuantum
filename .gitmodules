@@ -1,0 +1,3 @@
+[submodule "qgate_test/qgate"]
+	path = qgate_test/qgate
+	url = https://github.com/shinmorino/qgate.git
