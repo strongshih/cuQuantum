@@ -4,3 +4,6 @@
 [submodule "qiskit_aer_test/qiskit-aer"]
 	path = qiskit_aer_test/qiskit-aer
 	url = https://github.com/Qiskit/qiskit-aer.git
+[submodule "quest_test/QuEST"]
+	path = quest_test/QuEST
+	url = https://github.com/QuEST-Kit/QuEST.git
